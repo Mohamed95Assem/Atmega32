@@ -1,5 +1,4 @@
 /*
- * BIT_MATH.h
  *
  *  Created on: Apr 16, 2021
  *      Author: Assem
